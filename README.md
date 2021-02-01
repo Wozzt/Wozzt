@@ -2,7 +2,7 @@
 
 ## I'm a student Developer !
 
-- 🌿 I’m currently working on a W.Core for Fivem!
+- 🌿 I’m currently working in lua for fivem !
 
 ### Stay connect with me:
 
