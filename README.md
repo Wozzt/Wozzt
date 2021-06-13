@@ -1,4 +1,4 @@
-### Hey everyone, I'm Wozzt 👋
+### Hey everyone, I'm Skartek ✋
 
 ## I'm a student Developer !
 
