@@ -12,6 +12,7 @@
 <img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />
 <br />
 <br />
+
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Wozzt&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
----
+
 
