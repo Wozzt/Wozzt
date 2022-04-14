@@ -4,7 +4,7 @@
 
 ## Most Used Languages
 
-[![Lua Badge](https://img.shields.io/badge/-Lua-1B53C5?style=for-the-badge&labelColor=black&logo=Lua&logoColor=1B53C5)](#)
+[![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 <br />
 <br />
 
