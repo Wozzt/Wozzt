@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WozzT
-- 🔨 I’m currently working in lua for fivem !
-- 🔎 I’m currently learning  Lua / Html / CSS
+- 🔨 I'm currently working on a Sneaker Tool called Mobilia
+- 🔎 I’m currently learning Python/Javascript
 
 ## Most Used Languages
 
