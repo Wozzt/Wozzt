@@ -1,6 +1,5 @@
 - 👋 Hi, I’m WozzT
-- 🔨 I'm currently working on a Sneaker Tool called Matrix Tool
-- 🔎 I’m currently learning Python/Javascript
+- 🔎 I’m currently learning Python
 
 ## Most Used Languages
 
@@ -8,8 +7,5 @@
 <br />
 <br />
 
-## Number Of Visitors
-
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Wozzt&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 
